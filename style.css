@@ -1,3 +1,17 @@
 h1 {
-    color: green;
+    color: red;
+}
+
+.navbar {
+    background-color: hotpink;
+    color: grey;
+    display: flex;
+}
+
+#about {
+    padding-right: 10px;
+}
+
+#store {
+
 }
