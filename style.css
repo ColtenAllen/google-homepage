@@ -1,17 +1,28 @@
-h1 {
-    color: red;
-}
+/*Stylesheet*/
 
-.navbar {
-    background-color: hotpink;
+.container {
+    background-color: grey;
     color: grey;
     display: flex;
+    justify-content: space-between;
 }
 
-#about {
+/*#about {
     padding-right: 10px;
 }
+    
 
-#store {
+#gmail {
+    background-color: red;
+    align-self: flex-end;
+    margin-left: 75%;
+}*/
+
+#right {
+    
+}
+
+#left {
 
 }
+
