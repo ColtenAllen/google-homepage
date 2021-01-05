@@ -26,5 +26,13 @@
 .searchbar {
     display:flex;
     justify-content: center;
+    padding-top: 25px;
+    min-width: 200px;
+}
+
+.submit {
+    display: flex;
+    justify-content: center;
+    padding-top: 15px;
 }
 
